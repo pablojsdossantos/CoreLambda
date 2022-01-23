@@ -9,7 +9,7 @@ import org.eclipse.microprofile.context.ManagedExecutor;
 
 /**
  *
- * @author Pablo JS dos Santos
+ * @author Pablo JS dos Santos 
  */
 public abstract class AbstractApi {
     @Inject
